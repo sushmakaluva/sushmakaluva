@@ -13,8 +13,7 @@ Certificate from University of Toronto in full stack development with skills in 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sushma-reddy-kaluva/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sushmakaluva)
-&nbsp;
-[![Gmail](https://i.stack.imgur.com/tskMh.png) Gmail](kaluvasushma@gmail.com)
+
 
 
 [![Sushma's github stats](https://github-readme-stats.vercel.app/api?username=sushmakaluva&theme=blue-green)](https://github.com/sushmakaluva/github-readme-stats)
