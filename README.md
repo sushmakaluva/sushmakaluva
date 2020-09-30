@@ -8,5 +8,5 @@ Certificate from University of Toronto in full stack development with skills in 
 - 📫 Connect me here  : kaluvasushma@gmail.com
 - 🌱 Github Portfolio   : https://sushmakaluva.github.io/Responsive-Portfolio/
 - 😄 Pronouns         : She / Her
-- ⚡ Fun fact: Outside of the digital world I enjoy playing Borad games and spending time with family
+- ⚡ Fun fact: Outside of the digital world I enjoy playing Board games and spending time with family
 
