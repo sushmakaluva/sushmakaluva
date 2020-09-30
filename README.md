@@ -10,3 +10,6 @@ Certificate from University of Toronto in full stack development with skills in 
 - 😄 Pronouns         : She / Her
 - ⚡ Fun fact: Outside of the digital world I enjoy playing Board games and spending time with family
 
+
+[![Sushma's github stats](https://github-readme-stats.vercel.app/api?username=sushmakaluva&theme=blue-green)](https://github.com/sushmakaluva/github-readme-stats)
+
