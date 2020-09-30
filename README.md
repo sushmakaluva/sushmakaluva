@@ -7,9 +7,14 @@ Certificate from University of Toronto in full stack development with skills in 
 - 🔭 I’m currently working on something cool!
 - 📫 Connect me here  : kaluvasushma@gmail.com
 - 🌱 Github Portfolio   : https://sushmakaluva.github.io/Responsive-Portfolio/
-- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 - 😄 Pronouns         : She / Her
 - ⚡ Fun fact: Outside of the digital world I enjoy playing Board games and spending time with family
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sushma-reddy-kaluva/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sushmakaluva)
+&nbsp;
+[![Gmail](https://i.stack.imgur.com/tskMh.png) Gmail](kaluvasushma@gmail.com)
 
 
 [![Sushma's github stats](https://github-readme-stats.vercel.app/api?username=sushmakaluva&theme=blue-green)](https://github.com/sushmakaluva/github-readme-stats)
