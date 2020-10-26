@@ -15,6 +15,7 @@ Certificate from University of Toronto in full stack development with skills in 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sushmakaluva)
 
 
-
+<!---
 [![Sushma's github stats](https://github-readme-stats.vercel.app/api?username=sushmakaluva&theme=blue-green)](https://github.com/sushmakaluva/github-readme-stats)
+-->
 
